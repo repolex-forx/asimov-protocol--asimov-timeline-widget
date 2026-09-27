@@ -1,0 +1,7 @@
+[2026-09-27T19:32:24Z] === AST ITERATION 1 START | repo=asimov-protocol/asimov-timeline-widget sha=167ca052 ===
+[2026-09-27T19:32:24Z] [iter=1] PHASE START: ast repo=asimov-protocol/asimov-timeline-widget sha=167ca052
+[2026-09-27T19:32:24Z] [iter=1] Building AST aggregate chunks
+[2026-09-27T19:32:25Z] [iter=1] AST chunks built count=1 triples=10003
+[2026-09-27T19:32:25Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/167ca052eefa6f50d74bd1b386cc55a6345759c4/.complete
+[2026-09-27T19:32:25Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-09-27T19:32:25Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
