@@ -1,0 +1,11 @@
+{
+  "org": "asimov-protocol",
+  "repo": "asimov-timeline-widget",
+  "versions": [
+    {
+      "commit": "167ca052eefa6f50d74bd1b386cc55a6345759c4",
+      "tag": "1.0.0",
+      "parsed_at": "2026-09-27T19:35:15.284543+00:00"
+    }
+  ]
+}
